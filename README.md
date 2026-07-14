@@ -30,4 +30,6 @@
 ---
 
 ## 📊 GitHub Stats:
-![Yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazanChaya&show_icons=true&theme=radical)
+![Yazan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=YazanChaya&show_icons=true&theme=radical)
+
+![Yazan's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YazanChaya&layout=compact&theme=radical)
