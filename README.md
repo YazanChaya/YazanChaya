@@ -30,4 +30,4 @@
 ---
 
 ## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YazanChaya&show_icons=true&theme=radical)
+![Yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazanChaya&show_icons=true&theme=radical)
